@@ -455,7 +455,7 @@ y
 
 附postgresql函数创建示例：
 
-{%ace edit=false,theme='kuroir', lang='sql'%}
+```bash
 
 
 
